@@ -1,4 +1,4 @@
-# Skin Condition Classification — Acne, Eczema, Psoriasis & Normal Skin 🩺
+# Skin Condition Classification [Acne, Eczema, Psoriasis & Normal Skin] 🩺
 
 Proyek klasifikasi gambar untuk mendeteksi kondisi kulit (Acne, Eczema, Psoriasis, dan Normal Skin) menggunakan transfer learning dengan **EfficientNetB3**.
 
@@ -51,7 +51,7 @@ Training 10 epoch:
 | Eczema | 0.91 | 0.94 | 0.92 |
 | Normal Skin | 0.99 | 0.99 | 0.99 |
 | Psoriasis | 0.93 | 0.92 | 0.93 |
-| **Accuracy** | | | **0.95** |
+| Accuracy | | | 0.95 |
 
 Gap antara train dan validation accuracy kecil, menunjukkan model belajar dengan baik tanpa overfitting signifikan.
 
