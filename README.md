@@ -1,4 +1,4 @@
-# 🩺 Skin Condition Classification [Acne, Eczema, Psoriasis & Normal Skin] 
+# Skin Condition Classification 🩺
 
 Proyek klasifikasi gambar untuk mendeteksi kondisi kulit (Acne, Eczema, Psoriasis, dan Normal Skin) menggunakan transfer learning dengan **EfficientNetB3**.
 
