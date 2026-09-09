@@ -65,8 +65,8 @@ Gap antara train dan validation accuracy kecil, menunjukkan model belajar dengan
 
 ## 📁 Struktur Notebook
 
-1. **Import Library** — load semua dependency
-2. **Data Preparation** — download dataset dari Kaggle, eksplorasi jumlah & sampel gambar per kelas
-3. **Data Preprocessing** — split train/val/test, `ImageDataGenerator` + augmentasi
-4. **Modelling** — bangun & training model EfficientNetB3
-5. **Evaluasi & Visualisasi** — classification report, confusion matrix, plot accuracy/loss
+1. **Import Library** = load semua dependency
+2. **Data Preparation** = download dataset dari Kaggle, eksplorasi jumlah & sampel gambar per kelas
+3. **Data Preprocessing** = split train/val/test, `ImageDataGenerator` + augmentasi
+4. **Modelling** = bangun & training model EfficientNetB3
+5. **Evaluasi & Visualisasi** = classification report, confusion matrix, plot accuracy/loss
